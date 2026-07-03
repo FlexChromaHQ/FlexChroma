@@ -8,7 +8,9 @@ FlexChroma is a project for creating custom colors with standard 3D printing fil
 
 It includes printable models such as Blend Filament and Gradient Filament, together with color research tools like Blend Color Checker.
 
-As a future long-term research project, ColorCore is being planned as the color calculation engine for FlexChroma. It aims to simulate printed colors using measured filament color data and ΔE00 color difference calculations. Because accurate simulation requires extensive measured data from many filament colors and blend combinations, ColorCore is currently in the conceptual and planning stage.
+As a future long-term research project, **ColorCore** is being planned as the color calculation engine for FlexChroma. It aims to simulate printed colors using measured filament color data and ΔE00 color difference calculations. Because accurate simulation requires extensive measured data from many filament colors and blend combinations, ColorCore is currently in the conceptual and planning stage.
+
+Until ColorCore is available, Blend Color Checker serves as the official color evaluation tool for FlexChroma using real printed samples.
 
 ### Link
 [Filament Design Notes](https://github.com/flexchroma/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md), 
