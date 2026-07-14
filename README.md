@@ -7,9 +7,9 @@ Print Colors You Imagine.
 FlexChroma is a color creation system for FDM 3D printing.
 
 ### Link
-[Filament Design Notes](https://github.com/flexchroma/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md), 
-[Blend Filament Design Notes](https://github.com/flexchroma/FlexChroma/blob/main/Design%20notes/Blend_Filament_Design_Notes.md), 
-[Gradient Filament Design Notes](https://github.com/flexchroma/FlexChroma/blob/main/Design%20notes/Gradient_Filament_Design_Notes.md)
+[Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md), 
+[Blend Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Blend_Filament_Design_Notes.md), 
+[Gradient Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Gradient_Filament_Design_Notes.md)
 
 ## FlexChroma Lines
 
