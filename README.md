@@ -37,7 +37,7 @@ Until ColorCore is available, Blend Color Checker serves as the official color e
 
 🖨️ [MakerWorld](https://makerworld.com/ja/models/2864953-flexchroma-hub#profileId-3197676) : FlexChroma Model Download Page
 
-📖 [note -](https://note.com/may_banana/m/mcd8b2adf8bdb) : Blog on the Development of Color-Mixing Filaments 
+📖 [note -Exploring Color Mixing](https://note.com/may_banana/m/mcd8b2adf8bdb) : Blog on the Development of Color-Mixing Filaments 
 
 
 
