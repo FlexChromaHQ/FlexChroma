@@ -13,10 +13,11 @@ As a future long-term research project, **ColorCore** is being planned as the co
 Until ColorCore is available, Blend Color Checker serves as the official color evaluation tool for FlexChroma using real printed samples.
 
 ### Development Log
-[Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md):A Record of Trial and Error and Challenges in Printing Filament-Based Models
+[Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md) : A Record of Trial and Error and Challenges in Printing Filament-Based Models
 
-[Blend Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Blend_Filament_Design_Notes.md), 
-[Gradient Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Gradient_Filament_Design_Notes.md)
+[Blend Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Blend_Filament_Design_Notes.md) : Development History and Challenges of the Blend Filament Series
+
+[Gradient Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Gradient_Filament_Design_Notes.md) : The Development History and Challenges of the Gradient Filament Series, and the Path to ModelCore
 
 ## FlexChroma Lines
 
