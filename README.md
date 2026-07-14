@@ -4,7 +4,13 @@ Print Colors You Imagine.
 
 ## What is FlexChroma?
 
-FlexChroma is a color creation system for FDM 3D printing.
+FlexChroma is a project for creating custom colors with standard 3D printing filaments.
+
+It includes printable models such as Blend Filament and Gradient Filament, together with color research tools like Blend Color Checker.
+
+As a future long-term research project, **ColorCore** is being planned as the color calculation engine for FlexChroma. It aims to simulate printed colors using measured filament color data and ΔE00 color difference calculations. Because accurate simulation requires extensive measured data from many filament colors and blend combinations, ColorCore is currently in the conceptual and planning stage.
+
+Until ColorCore is available, Blend Color Checker serves as the official color evaluation tool for FlexChroma using real printed samples.
 
 ### Link
 [Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md), 
@@ -18,46 +24,7 @@ FlexChroma is a color creation system for FDM 3D printing.
 - **Duo Line** — Create directional color effects.
 - **Random Line** — Create textured and randomized color patterns.
 
-## Current Status
 
-Published:
-- Blend Filament
-- Blend Color Checker
-
-In Development:
-- Gradient Filament
-- TriBlend Filament
-- DuoShift Filament
-- DuoRevolve Filament
-- TriGradient Filament
-
-```
-## 📁 Structure
-
-FlexChroma
-├── Blend Line
-│   ├── Blend Filament Series
-│   │   ├── M Family
-│   │   │   ├──────────── M1 model
-│   │   │   ├── M2 model　 ├── Standard profile
-│   │   │   ├── M3 model　 │   ├── 50pct plate
-│   │   │   └── M4 model 　│   ├── 55pct plate
-│   │   ├── S Family     　│   ├── 60pct plate
-│   │   │   ├── M1 model　 │   └── 65pct plate
-│   │   │   ├── M2 model　 └── Detail profile
-│   │   │   ├── M3 model
-│   │   │   └── M4 model
-│   │   └── Blend Color Checker
-│   └── TriBlend Filament Series
-├── Gradient Line
-│   ├── Gradient Filament Series
-│   └── TriGradient Filament Series
-├── Duo Line
-│   ├── DuoShift Filament Series
-│   └── DuoRevolve Filament Series
-└── Random Line
-    ├── Confetti Filament Series
-    └── Terrazzo Filament Series
 ```
 
 
