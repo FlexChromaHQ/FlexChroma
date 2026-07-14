@@ -21,10 +21,10 @@ Until ColorCore is available, Blend Color Checker serves as the official color e
 
 ## FlexChroma Lines
 
-- **Blend Line** — Create intermediate colors between two filaments.
+- **Blend Line** — Create intermediate colors between multi filaments.
 - **Gradient Line** — Create smooth color transitions along filament length.
-- **Duo Line** — Create directional color effects.
-- **Random Line** — Create textured and randomized color patterns.
+- **Duo Line** — Line, Planned for Future Development
+- **Random Line** — Line, Planned for Future Development
 
 
 
