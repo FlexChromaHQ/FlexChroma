@@ -27,7 +27,6 @@ Until ColorCore is available, Blend Color Checker serves as the official color e
 - **Random Line** — Create textured and randomized color patterns.
 
 
-```
 
 
 ## Explore
