@@ -5,7 +5,7 @@
 - 2026-06 Initial document.
 ---
 ### Link
-[Readme](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/README.md), 
+[Readme](https://github.com/FlexChromaHQ/FlexChroma/blob/main/README.md), 
 [Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md), 
 [Gradient Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Gradient_Filament_Design_Notes.md)
 
