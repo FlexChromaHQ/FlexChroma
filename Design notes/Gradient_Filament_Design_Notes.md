@@ -87,6 +87,7 @@ Gradient Filament S4 Beta作成時に感じていたことですが、Blend Fila
 人間の手作業でのモデリングではなくスクリプトでの自動作成ができるようにModelCoreプロジェクトを始めることにしました。
 工数問題の解決とバリ問題の解決加速のため**現在ModelCoreの開発中。**
 
+---
 
 ## The following are some notes on Gradient Filament.
 
