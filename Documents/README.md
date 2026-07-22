@@ -1,12 +1,3 @@
-# Original Document
-
-PDFへ仕立てる前の編集用ドキュメント置き場。基本的にPDFと同一。
-
-## Document Rules
-
-ドキュメント作成時のルールのまとめ
-
-以下Text関連のルール
 | 用途        | IBM Plex Sans JP  |
 | --------- | ----------------- |
 | 表紙タイトル    | Bold              |
