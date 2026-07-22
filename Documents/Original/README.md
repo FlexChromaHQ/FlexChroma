@@ -1,6 +1,8 @@
-# Original Document
+# Documentation Guideline
 
-PDFへ仕立てる前の編集用ドキュメント置き場。基本的にPDFと同一。
+発行前の編集可能なデータはこちらのフォルダに置い下下さい。
+
+ドキュメント作成時のガイドラインを以下に記載します。
 
 ## Document Rules
 
@@ -27,7 +29,7 @@ Brand Typeface
 
 Segoe UI Semibold is used for all FlexChroma product names (FlexChroma, ColorCore, ModelCore, etc.). This ensures consistency in the distinctive, open uppercase “C”, whose shape flows naturally into the following letters while symbolizing “Color”, “Chroma”, and “Core” across the entire brand family.
 
-## Bland Color
+## Brand Color
 
 ブランドの代表カラーはマゼンタとシアンのグラデーション。彩度を保つために紫を経由する。各色の詳細は下表の通り。グラデーションは60度傾いた状態とし、左斜め上のマゼンタから中央の紫を経由し、右斜め下のシアンへつながる。マゼンタとシアンはグラデーションの端でなくともよい。紫も完全な中央でなくともよい。
 
@@ -38,3 +40,7 @@ Segoe UI Semibold is used for all FlexChroma product names (FlexChroma, ColorCor
 | Magenta    | #EE00B0   |
 | Purple     | #6200E8   |
 | Cyan       | #0095E5   |
+
+## Icon
+
+FlexLab側のアーカイブフォルダに保存している物を使用してください。Bland Colorベースの他白黒のアイコンが使用可能です。
