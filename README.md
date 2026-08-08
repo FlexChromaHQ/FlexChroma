@@ -12,6 +12,16 @@ As a future long-term research project, **ColorCore** is being planned as the co
 
 Until ColorCore is available, Blend Color Checker serves as the official color evaluation tool for FlexChroma using real printed samples.
 
+## Documents
+
+Public FlexChroma documents and translation resources are available in the [Documents](./Documents/) directory.
+
+- **Published Guides** — Current PDF guides in English and Japanese
+- **Original Files** — Editable source files used to create the published documents
+- **Translation Table** — Source text and translations used for multilingual versions
+
+The latest published guides can also be accessed through the FlexChroma Library.
+
 ### Development Log
 [Filament Design Notes](https://github.com/FlexChromaHQ/FlexChroma/blob/main/Design%20notes/Filament_Design_Notes.md) : A Record of Trial and Error and Challenges in Printing Filament-Based Models
 
